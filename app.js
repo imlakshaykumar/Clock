@@ -27,7 +27,7 @@ function clock() {
     // hourHand.style.transform = `rotate(${hourDegrees}deg)`;
     // minHand.style.transform = `rotate(${minuteDegrees}deg)`;
     // secondHand.style.transform = `rotate(${secondDegrees}deg)`;
-    // console.log(sec);
+    console.log(sec);
     // console.log(hour);
     // console.log(min);
     // console.log(now);
